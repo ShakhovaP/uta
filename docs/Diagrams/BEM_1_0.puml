@@ -1,0 +1,45 @@
+@startuml
+right header
+	<font size=24 color=black>Package: <b>BEM_1.0
+end header
+ 
+title
+	<font size=18 color=black> Веб-проект "Електронний словник української мови"
+	<font size=16 color=black>BE-модель 
+end title
+
+entity MainForm
+entity MainForm.value
+
+
+entity Word 
+entity Word.value
+
+
+entity Tag
+entity Tag.name
+entity Tag.description
+
+
+entity Association 
+
+MainForm.value -* MainForm
+
+Word.value -* Word
+
+Tag.name -* Tag
+Tag.description -* Tag
+
+Association "0,*" -- "1,1" Word
+Association "0,*" -- "1,1" MainForm
+Association "0,*" -- "1,1" Tag
+
+
+
+ 
+right footer
+ 
+ НТУУ КПІ ім.І.Сікорського
+ Киів-2020 
+ end footer
+@enduml

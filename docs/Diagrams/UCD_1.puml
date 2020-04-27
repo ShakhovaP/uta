@@ -1,0 +1,29 @@
+@startuml
+right header
+	<font size=24 color=black>Package: <b>UCD_1.0
+end header
+
+title
+	<font size=18 color=black>Веб-проект
+	<font size=16 color=black>Діаграма прецедентів
+end title
+
+actor "Користувач" as User
+actor "Зареєстрований користувач" as RegUser
+
+usecase "<b>UC_1</b>\nЗареєструватися,\nотримати ключ\nна використання" as UC_1
+usecase "<b>UC_2.1</b>\nВідправити Web-запит" as UC_2.1
+usecase "<b>UC_2.2</b>\nВідправити API-запит" as UC_2.2
+usecase "<b>UC_3</b>\nУвійти в систему" as UC_3
+usecase "<b>UC_4</b>\nДодавати нові слова" as UC_4
+usecase "<b>UC_5</b>\nОтримати API-key" as UC_5
+
+RegUser -|> User
+
+User -r-> UC_1
+RegUser -u-> UC_2.1
+RegUser -u-> UC_2.2
+RegUser -l--> UC_3
+RegUser --> UC_4
+RegUser --> UC_5
+@enduml

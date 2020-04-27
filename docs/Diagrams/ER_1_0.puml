@@ -1,0 +1,36 @@
+@startuml
+right header
+<font size=24 color=black>Package: <b>ERM_1.0
+end header
+
+title
+<font size=18 color=black> Веб-проект "Електронний словник української мови"
+<font size=16 color=black>ER-модель
+end title
+
+entity MainForm {
+value
+}
+
+entity Word {
+value
+}
+
+entity Tag {
+name
+description
+}
+
+entity Association {
+}
+
+Association "0,*" -- "1,1" Word
+Association "0,*" -- "1,1" MainForm
+Association "0,*" -- "1,1" Tag
+
+
+right footer
+НТУУ КПІ ім.І.Сікорського
+Киів-2020
+end footer
+@enduml

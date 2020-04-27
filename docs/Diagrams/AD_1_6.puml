@@ -1,0 +1,28 @@
+@startuml
+left header
+	<font color=000 size=18><b>Package:</b> AD_1.6
+	<font color=000 size=16><b>ID:</b> UC_5
+	<font color=000 size=16><b>Назва:</b> Отримання персонального api-key
+	<font color=000 size=16><b>Учасники:</b> Користувач, Web-система
+	<font color=000 size=16><b>Передумови:</b> Користувач увійшов в обліковий запис
+	<font color=000 size=16><b>Результат:</b> API-key отримано, дані занесені до бази
+	<font color=000 size=16><b>Виключні ситуації:</b>
+	<font color=000 size=16><b>Основний сценарій:</b>
+end header
+
+|Користувач|
+	start
+	: Натискає кнопку отримання API-key;
+|Web-система|
+	: Генерує індивідуальний API-key;
+	
+	note right 
+		Відповідні дані
+		користувача заносяться 
+		до бази даних
+	end note
+
+|Користувач|
+    : Отримує API-key;
+	stop;
+@enduml
