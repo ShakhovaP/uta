@@ -11,7 +11,6 @@ const connection = mysql.createConnection({
   password: "password"
 }).promise();
 
-///////////////////////////////
 const select = (mf, word, tag) => {
 		//let count = 0;
 		const ass = `INSERT INTO Association (MainForm_id, Word_id, Tag_id) VALUES (?)`;
@@ -45,7 +44,6 @@ const select = (mf, word, tag) => {
     });
 	};
 
-//////////////////////////////////////
 const insert = (sql, value) => {
 connection.query(sql, value)
           .then(result =>{
@@ -81,15 +79,6 @@ const sqlTag = "INSERT INTO Tag (value) VALUES (?)";
 
 
 
-
-//////////////////////////
-
-/*connection.end(function(err) {
-  if (err) {
-    return console.log("Ошибка: " + err.message);
-  }
-  console.log("Подключение закрыто");
-});*/
 
 
 
