@@ -1,0 +1,545 @@
+[{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdd5"
+	},
+	"word": "а",
+	"mainForm": "а",
+	"tags": [
+		"conj",
+		"coord"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdd6"
+	},
+	"word": "а",
+	"mainForm": "а",
+	"tags": [
+		"intj"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdd7"
+	},
+	"word": "а",
+	"mainForm": "а",
+	"tags": [
+		"part"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdd8"
+	},
+	"word": "АА",
+	"mainForm": "АА",
+	"tags": [
+		"noninfl",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdd9"
+	},
+	"word": "АА",
+	"mainForm": "АА",
+	"tags": [
+		"noun",
+		"inanim",
+		"p",
+		"v_naz",
+		"nv",
+		"ns",
+		"prop",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdda"
+	},
+	"word": "АА",
+	"mainForm": "АА",
+	"tags": [
+		"noun",
+		"inanim",
+		"p",
+		"v_rod",
+		"nv",
+		"ns",
+		"prop",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cddb"
+	},
+	"word": "АА",
+	"mainForm": "АА",
+	"tags": [
+		"noun",
+		"inanim",
+		"p",
+		"v_dav",
+		"nv",
+		"ns",
+		"prop",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cddc"
+	},
+	"word": "АА",
+	"mainForm": "АА",
+	"tags": [
+		"noun",
+		"inanim",
+		"p",
+		"v_zna",
+		"nv",
+		"ns",
+		"prop",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cddd"
+	},
+	"word": "АА",
+	"mainForm": "АА",
+	"tags": [
+		"noun",
+		"inanim",
+		"p",
+		"v_oru",
+		"nv",
+		"ns",
+		"prop",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdde"
+	},
+	"word": "АА",
+	"mainForm": "АА",
+	"tags": [
+		"noun",
+		"inanim",
+		"p",
+		"v_mis",
+		"nv",
+		"ns",
+		"prop",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cddf"
+	},
+	"word": "АА",
+	"mainForm": "АА",
+	"tags": [
+		"noun",
+		"inanim",
+		"p",
+		"v_kly",
+		"nv",
+		"ns",
+		"prop",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cde0"
+	},
+	"word": "а-а",
+	"mainForm": "а-а",
+	"tags": [
+		"intj"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cde1"
+	},
+	"word": "ААА",
+	"mainForm": "ААА",
+	"tags": [
+		"noun",
+		"inanim",
+		"m",
+		"v_naz",
+		"nv",
+		"np",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cde2"
+	},
+	"word": "ААА",
+	"mainForm": "ААА",
+	"tags": [
+		"noun",
+		"inanim",
+		"m",
+		"v_rod",
+		"nv",
+		"np",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cde3"
+	},
+	"word": "ААА",
+	"mainForm": "ААА",
+	"tags": [
+		"noun",
+		"inanim",
+		"m",
+		"v_dav",
+		"nv",
+		"np",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cde4"
+	},
+	"word": "ААА",
+	"mainForm": "ААА",
+	"tags": [
+		"noun",
+		"inanim",
+		"m",
+		"v_zna",
+		"nv",
+		"np",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cde5"
+	},
+	"word": "ААА",
+	"mainForm": "ААА",
+	"tags": [
+		"noun",
+		"inanim",
+		"m",
+		"v_oru",
+		"nv",
+		"np",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cde6"
+	},
+	"word": "ААА",
+	"mainForm": "ААА",
+	"tags": [
+		"noun",
+		"inanim",
+		"m",
+		"v_mis",
+		"nv",
+		"np",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cde7"
+	},
+	"word": "ААА",
+	"mainForm": "ААА",
+	"tags": [
+		"noun",
+		"inanim",
+		"m",
+		"v_kly",
+		"nv",
+		"np",
+		"abbr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cde8"
+	},
+	"word": "а-а-а",
+	"mainForm": "а-а-а",
+	"tags": [
+		"intj"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cde9"
+	},
+	"word": "а-а-а-а",
+	"mainForm": "а-а-а-а",
+	"tags": [
+		"intj"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdea"
+	},
+	"word": "аакуватий",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"m",
+		"v_naz"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdeb"
+	},
+	"word": "аакуватого",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"m",
+		"v_rod"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdec"
+	},
+	"word": "аакуватому",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"m",
+		"v_dav"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cded"
+	},
+	"word": "аакуватого",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"m",
+		"v_zna",
+		"ranim"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdee"
+	},
+	"word": "аакуватий",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"m",
+		"v_zna",
+		"rinanim"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdef"
+	},
+	"word": "аакуватим",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"m",
+		"v_oru"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdf0"
+	},
+	"word": "аакуватім",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"m",
+		"v_mis"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdf1"
+	},
+	"word": "аакуватому",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"m",
+		"v_mis"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdf2"
+	},
+	"word": "аакуватий",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"m",
+		"v_kly"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdf3"
+	},
+	"word": "аакувата",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"f",
+		"v_naz"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdf4"
+	},
+	"word": "аакуватої",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"f",
+		"v_rod"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdf5"
+	},
+	"word": "аакуватій",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"f",
+		"v_dav"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdf6"
+	},
+	"word": "аакувату",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"f",
+		"v_zna"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdf7"
+	},
+	"word": "аакуватою",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"f",
+		"v_oru"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdf8"
+	},
+	"word": "аакуватій",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"f",
+		"v_mis"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdf9"
+	},
+	"word": "аакувата",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"f",
+		"v_kly"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdfa"
+	},
+	"word": "аакувате",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"n",
+		"v_naz"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdfb"
+	},
+	"word": "аакуватого",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"n",
+		"v_rod"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdfc"
+	},
+	"word": "аакуватому",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"n",
+		"v_dav"
+	]
+},
+{
+	"_id": {
+		"$oid": "5e0f04b319e5821c30d2cdfd"
+	},
+	"word": "аакувате",
+	"mainForm": "аакуватий",
+	"tags": [
+		"adj",
+		"n",
+		"v_zna"
+	]
+}]
